@@ -1,4 +1,5 @@
 ![MasterHead](https://files.readme.io/d14112d-Cloudsmith-Integrations-Banner-GitHub.png)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Frontend+ReactJS+Developer+👨‍💻)](https://git.io/typing-svg)
 <h1 align="center">Hi 👋, I'm Nodirbek Kholiqulov</h1>
 <h3 align="center">I'm Frontend Developer</h3>
 <img align="right" alt="coding" width"400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
