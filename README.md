@@ -1,3 +1,4 @@
+![logo](https://github.com/node-nodir/Nodirbek/blob/main/nodir.jpeg)
 <h1 align="center">Hi 👋, I'm Nodirbek Kholiqulov</h1>
 <img align="right" alt="coding" width"400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
