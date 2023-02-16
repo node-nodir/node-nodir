@@ -1,6 +1,4 @@
-![MasterHead](https://files.readme.io/d14112d-Cloudsmith-Integrations-Banner-GitHub.png)
 <h1 align="center">Hi 👋, I'm Nodirbek Kholiqulov</h1>
-<img alt="dev" src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Frontend+ReactJS+Developer">
 <img align="right" alt="coding" width"400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=node-nodir&label=Profile%20views&color=0e75b6&style=flat" alt="node-nodir" /> </p>
