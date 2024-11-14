@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=node-nodir&label=Profile%20views&color=0e75b6&style=flat" alt="node-nodir" /> </p>
 
-- 🔭 I’m currently workingat Unical-Solution
+- 🔭 I’m currently working at VistaWave that I co-founded in January, 2024.
 
 - 🌱 I’m currently learning **TypeScript, Redux and Redux-Toolkit**
 
 - 📫 How to reach me **nodirbekxoliqulov9@gmail.com**
 
-- ⚡ Fun fact **I am open minded employee**
+- ⚡ Fun fact **I am open minded person**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
