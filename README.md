@@ -16,7 +16,7 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/nodirbek-kholiqulov-67a712246/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nodirbek-kholiqulov-67a712246/" height="30" width="40" /></a>
 </p>
 <p align="next">
-<a href="https://t.me/khn_dev" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/telegram-icon-2048x2048-x902pktl.png" alt="telegram" height="30" width="40" /></a>
+<a href="https://t.me/khn_dev" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111644.png" alt="telegram" height="30" width="40" /></a>
 </p>
 <p align="next">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/nodirbek-kholiqulov-67a712246/" target="blank"><img align="center" src="https://cdn.pixabay.com/photo/2021/10/11/00/59/website-6699086_640.png" alt="website" height="30" width="40" /></a>
