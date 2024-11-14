@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/nodirbek-kholiqulov-67a712246/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nodirbek-kholiqulov-67a712246/" height="30" width="40" /></a>
 </p>
-<p align="left">
+<p align="right">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/nodirbek-kholiqulov-67a712246/" target="blank"><img align="center" src="https://cdn.pixabay.com/photo/2021/10/11/00/59/website-6699086_640.png" alt="website" height="30" width="40" /></a>
 </p>
 
