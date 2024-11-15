@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **TypeScript, Redux and Redux-Toolkit**
 
-- 📫 How to reach me **nodirbekxoliqulov9@gmail.com**
+- 📫 How to reach me: **nodirbekxoliqulov9@gmail.com**
 
-- ⚡ Fun fact **I am open minded person**
+- ⚡ Fun fact: **I am open minded person**
 
 <h3 align="left">Connect with me through:</h3>
 <p align="left">
