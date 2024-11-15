@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Nodirbek Kholiqulov</h1>
-<img align="right" alt="coding" style="margin:50px;" width"100" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
+<img align="right" alt="coding" style="margin:50px;" width="100" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=node-nodir&label=Profile%20views&color=0e75b6&style=flat" alt="node-nodir" /> </p>
 
@@ -15,10 +15,10 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/nodirbek-kholiqulov-67a712246/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nodirbek-kholiqulov-67a712246/" height="30" width="40" /></a>
 </p>
-<p align="right">
+<p align="left">
 <a href="https://t.me/khn_dev" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111644.png" alt="telegram" height="30" width="40" /></a>
 </p>
-<p align="right">
+<p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/nodirbek-kholiqulov-67a712246/" target="blank"><img align="center" src="https://cdn.pixabay.com/photo/2021/10/11/00/59/website-6699086_640.png" alt="website" height="30" width="40" /></a>
 </p>
 
